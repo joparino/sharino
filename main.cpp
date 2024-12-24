@@ -1,5 +1,5 @@
 ﻿
-#include "sharino.h"
+#include "src/sharino.h"
 #include <iostream>
 
 int main()

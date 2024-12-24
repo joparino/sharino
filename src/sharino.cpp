@@ -1,6 +1,5 @@
 
 #include "sharino.h"
-#include <iostream>
 #include <filesystem>
 
 jp::Sharino::Sharino()
